@@ -8,12 +8,12 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/bin/program",
+                "${workspaceFolder}/.out_bin/program",
                 "-lm"
             ],
-            "options": {
-                "cwd": "${fileDirname}"
-            },
+            // "options": {
+            //     "cwd": "${fileDirname}"
+            // },
             "problemMatcher": [
                 "$gcc"
             ],
