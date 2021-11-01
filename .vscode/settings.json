@@ -10,6 +10,8 @@
         "list": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "new": "cpp",
+        "regex": "cpp"
     }
 }
